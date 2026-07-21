@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     description: "Mais de 35 ferramentas de IA, organizadas e prontas para consulta.",
     type: "website",
     locale: "pt_BR",
-    images: [{ url: "/catalog/page-01.png", width: 768, height: 1024, alt: "Capa do catálogo FacilitAI" }]
+    images: [{ url: "/catalog/catalog-01.jpg", width: 1410, height: 2250, alt: "Capa do catálogo FacilitAI" }]
   },
   robots: { index: true, follow: true }
 };

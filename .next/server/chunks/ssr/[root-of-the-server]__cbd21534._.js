@@ -594,10 +594,10 @@ function Home() {
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                        src: "/catalog/page-01.png",
+                                        src: "/catalog/catalog-01.jpg",
                                         alt: "Capa do catálogo FacilitAI",
-                                        width: 768,
-                                        height: 1024,
+                                        width: 1410,
+                                        height: 2250,
                                         priority: true,
                                         sizes: "(max-width: 900px) 72vw, 400px"
                                     }, void 0, false, {
@@ -727,10 +727,10 @@ function Home() {
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "page-card p1",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                    src: "/catalog/page-10.png",
+                                    src: "/catalog/catalog-16.jpg",
                                     alt: "Página de criação de imagens",
-                                    width: 768,
-                                    height: 1024
+                                    width: 1410,
+                                    height: 2250
                                 }, void 0, false, {
                                     fileName: "[project]/app/page.tsx",
                                     lineNumber: 84,
@@ -744,10 +744,10 @@ function Home() {
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "page-card p2",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                    src: "/catalog/page-04.png",
+                                    src: "/catalog/catalog-08.jpg",
                                     alt: "Página de assistentes de IA",
-                                    width: 768,
-                                    height: 1024
+                                    width: 1410,
+                                    height: 2250
                                 }, void 0, false, {
                                     fileName: "[project]/app/page.tsx",
                                     lineNumber: 85,
@@ -761,10 +761,10 @@ function Home() {
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "page-card p3",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                    src: "/catalog/page-02.png",
+                                    src: "/catalog/catalog-02.jpg",
                                     alt: "Índice do catálogo",
-                                    width: 768,
-                                    height: 1024
+                                    width: 1410,
+                                    height: 2250
                                 }, void 0, false, {
                                     fileName: "[project]/app/page.tsx",
                                     lineNumber: 86,
@@ -1227,24 +1227,24 @@ function Home() {
                             className: "preview-gallery",
                             children: [
                                 [
-                                    "page-01.png",
+                                    "catalog-01.jpg",
                                     "Capa"
                                 ],
                                 [
-                                    "page-04.png",
+                                    "catalog-08.jpg",
                                     "Assistentes de IA"
                                 ],
                                 [
-                                    "page-10.png",
+                                    "catalog-16.jpg",
                                     "Criação de Imagens"
                                 ],
                                 [
-                                    "page-16.png",
-                                    "Programação"
+                                    "catalog-12.jpg",
+                                    "Automação"
                                 ],
                                 [
-                                    "page-03.png",
-                                    "Como usar"
+                                    "catalog-04.jpg",
+                                    "Apresentações"
                                 ]
                             ].map(([img, label], i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Reveal$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Reveal"], {
                                     delay: i * .05,
@@ -1254,30 +1254,30 @@ function Home() {
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                                 src: `/catalog/${img}`,
                                                 alt: `Prévia: ${label}`,
-                                                width: 768,
-                                                height: 1024
+                                                width: 1410,
+                                                height: 2250
                                             }, void 0, false, {
                                                 fileName: "[project]/app/page.tsx",
                                                 lineNumber: 113,
-                                                columnNumber: 299
+                                                columnNumber: 316
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 children: label
                                             }, void 0, false, {
                                                 fileName: "[project]/app/page.tsx",
                                                 lineNumber: 113,
-                                                columnNumber: 382
+                                                columnNumber: 400
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/page.tsx",
                                         lineNumber: 113,
-                                        columnNumber: 254
+                                        columnNumber: 271
                                     }, this)
                                 }, label, false, {
                                     fileName: "[project]/app/page.tsx",
                                     lineNumber: 113,
-                                    columnNumber: 220
+                                    columnNumber: 237
                                 }, this))
                         }, void 0, false, {
                             fileName: "[project]/app/page.tsx",

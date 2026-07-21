@@ -91,9 +91,9 @@ const metadata = {
         locale: "pt_BR",
         images: [
             {
-                url: "/catalog/page-01.png",
-                width: 768,
-                height: 1024,
+                url: "/catalog/catalog-01.jpg",
+                width: 1410,
+                height: 2250,
                 alt: "Capa do catálogo FacilitAI"
             }
         ]

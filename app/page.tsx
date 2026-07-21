@@ -66,7 +66,7 @@ export default function Home() {
           <div className="glow" />
           <div className="book-mockup">
             <div className="book-edge" />
-            <Image src="/catalog/page-01.png" alt="Capa do catálogo FacilitAI" width={768} height={1024} priority sizes="(max-width: 900px) 72vw, 400px" />
+            <Image src="/catalog/catalog-01.jpg" alt="Capa do catálogo FacilitAI" width={1410} height={2250} priority sizes="(max-width: 900px) 72vw, 400px" />
           </div>
           <div className="floating-chip chip-one"><BrainCircuit size={18}/> 35+ ferramentas</div>
           <div className="floating-chip chip-two"><BadgeCheck size={18}/> Acesso imediato</div>
@@ -81,9 +81,9 @@ export default function Home() {
 
       <section id="conteudo" className="section shell solution-grid">
         <Reveal className="catalog-stack">
-          <div className="page-card p1"><Image src="/catalog/page-10.png" alt="Página de criação de imagens" width={768} height={1024}/></div>
-          <div className="page-card p2"><Image src="/catalog/page-04.png" alt="Página de assistentes de IA" width={768} height={1024}/></div>
-          <div className="page-card p3"><Image src="/catalog/page-02.png" alt="Índice do catálogo" width={768} height={1024}/></div>
+          <div className="page-card p1"><Image src="/catalog/catalog-16.jpg" alt="Página de criação de imagens" width={1410} height={2250}/></div>
+          <div className="page-card p2"><Image src="/catalog/catalog-08.jpg" alt="Página de assistentes de IA" width={1410} height={2250}/></div>
+          <div className="page-card p3"><Image src="/catalog/catalog-02.jpg" alt="Índice do catálogo" width={1410} height={2250}/></div>
         </Reveal>
         <Reveal className="solution-copy">
           <span className="eyebrow">A solução</span><h2>Conheça o FacilitAI</h2>
@@ -110,7 +110,7 @@ export default function Home() {
       </section>
 
       <section className="section preview-section"><div className="shell"><Reveal className="section-heading center"><span className="eyebrow">Prévia do catálogo</span><h2>Veja um pouco do que estará nas suas mãos.</h2></Reveal>
-        <div className="preview-gallery">{[["page-01.png","Capa"],["page-04.png","Assistentes de IA"],["page-10.png","Criação de Imagens"],["page-16.png","Programação"],["page-03.png","Como usar"]].map(([img,label],i)=><Reveal delay={i*.05} key={label}><div className={`preview-page preview-${i}`}><Image src={`/catalog/${img}`} alt={`Prévia: ${label}`} width={768} height={1024}/><span>{label}</span></div></Reveal>)}</div>
+        <div className="preview-gallery">{[["catalog-01.jpg","Capa"],["catalog-08.jpg","Assistentes de IA"],["catalog-16.jpg","Criação de Imagens"],["catalog-12.jpg","Automação"],["catalog-04.jpg","Apresentações"]].map(([img,label],i)=><Reveal delay={i*.05} key={label}><div className={`preview-page preview-${i}`}><Image src={`/catalog/${img}`} alt={`Prévia: ${label}`} width={1410} height={2250}/><span>{label}</span></div></Reveal>)}</div>
       </div></section>
 
       <section id="depoimentos" className="section section-muted"><div className="shell"><Reveal className="section-heading center"><span className="eyebrow">Depoimentos</span><h2>Quem usa, economiza tempo desde o primeiro acesso.</h2></Reveal>
