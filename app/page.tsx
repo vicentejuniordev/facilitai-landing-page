@@ -10,7 +10,7 @@ import { Reveal } from "@/components/Reveal";
 import { FAQ } from "@/components/FAQ";
 import { MetaPixel } from "@/components/MetaPixel";
 
-const CHECKOUT = "https://SEU-LINK-DA-KIWIFY";
+const CHECKOUT = "https://pay.kiwify.com.br/e1J1NEa";
 
 const categories = [
   [Bot, "Assistentes de IA"], [ImageIcon, "Criação de Imagens"], [MonitorPlay, "Vídeos"],
